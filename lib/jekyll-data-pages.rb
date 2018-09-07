@@ -1,0 +1,5 @@
+require "active_support/all"
+require "jekyll-data-pages/version"
+require "jekyll-data-pages/page"
+require "jekyll-data-pages/generator"
+require "jekyll-data-pages/liquid_filters"
